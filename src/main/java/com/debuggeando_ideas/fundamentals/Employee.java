@@ -1,8 +1,14 @@
 package com.debuggeando_ideas.fundamentals;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 @ToString
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
 public class Employee {
 
     private String dni;

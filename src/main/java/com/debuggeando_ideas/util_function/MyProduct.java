@@ -3,7 +3,7 @@ package com.debuggeando_ideas.util_function;
 import lombok.ToString;
 
 @ToString
-class MyProduct {
+public class MyProduct {
 
     Integer price;
     String name;

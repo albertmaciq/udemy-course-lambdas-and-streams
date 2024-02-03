@@ -1,4 +1,4 @@
-package com.debuggeando_ideas.pallalel_streams;
+package com.debuggeando_ideas.pallalel_streams.examples;
 
 import java.util.List;
 

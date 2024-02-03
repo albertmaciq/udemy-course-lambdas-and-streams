@@ -2,7 +2,7 @@ package com.debuggeando_ideas.pallalel_streams;
 
 import java.util.stream.IntStream;
 
-public class ParallelStreamTimerApp {
+public class ParallelStreamPerformanceApp {
 
     static void normalStream(Integer rangeUpperLimit) {
         long startTime = System.currentTimeMillis();

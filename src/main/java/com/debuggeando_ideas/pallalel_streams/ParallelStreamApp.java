@@ -1,8 +1,6 @@
 package com.debuggeando_ideas.pallalel_streams;
 
-import java.util.List;
-
-public class ParallelStream {
+public class ParallelStreamApp {
 
     //-D java.util.concurrent.ForkJoinPool.common.parallelism=5
     public static void main(String[] args) {

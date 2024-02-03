@@ -1,4 +1,4 @@
-package com.debuggeando_ideas.real_appplications.examples.comparator;
+package com.debuggeando_ideas.real_appplications.comparator;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.debuggeando_ideas.real_appplications.examples;
+package com.debuggeando_ideas.real_appplications;
 
 import java.io.IOException;
 import java.nio.file.Files;

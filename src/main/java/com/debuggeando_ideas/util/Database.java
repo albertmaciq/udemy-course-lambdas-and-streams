@@ -119,7 +119,7 @@ public class Database {
                         .totalSold(41)
                         .build(),
                 Videogame.builder()
-                        .name("Good of war")
+                        .name("God of war")
                         .price(28.00)
                         .console(Console.PLAYSTATION)
                         .reviews(List.of(
@@ -127,7 +127,7 @@ public class Database {
                                 new Review("not like me", 2),
                                 new Review("not very good x2", 2)
                         ))
-                        .officialWebsite("www.forza.com")
+                        .officialWebsite("www.god.com")
                         .isDiscount(false)
                         .totalSold(79)
                         .build(),

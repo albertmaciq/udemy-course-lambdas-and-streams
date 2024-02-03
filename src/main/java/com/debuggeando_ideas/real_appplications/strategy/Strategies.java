@@ -1,4 +1,4 @@
-package com.debuggeando_ideas.real_appplications.examples.strategy;
+package com.debuggeando_ideas.real_appplications.strategy;
 
 public class Strategies {
 
